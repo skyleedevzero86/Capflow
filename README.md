@@ -108,5 +108,3 @@ dotnet run --project src\Capflow.Presentation\Capflow.Presentation.csproj
 %AppData%\Capflow\projects\{project-id}.json      # 메타데이터, 폴더 정보, 주석 데이터
 %AppData%\Capflow\assets\{project-id}\images\     # PNG 스크린샷 파일
 ```
-
-README 문서용이라면 "유스케이스" 대신 "기능", "애그리게이트" 대신 "집합체" 등 더 한국어화된 용어로도 다듬을 수 있습니다.
